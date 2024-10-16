@@ -44,7 +44,7 @@ In cancer, there are over 200 different forms. Out of 200, melanoma is the deadl
 - To control the overfitting problem, we applied **Data Augmentation Strategy**. With this we can able to control the accuracy
     - Training Accuracy: ~28%     
     - Validation Accuracy: ~20%
-- To improve the accuracy, we used the **Augmentor package** and handled the class imbalancce with 20 epochs
+- To improve the accuracy, we used the **Augmentor package** and handled the class imbalancce with 30 epochs
     - Training Accuracy: ~92%     
     - Validation Accuracy: ~72%
 
