@@ -61,7 +61,7 @@ In cancer, there are over 200 different forms. Out of 200, melanoma is the deadl
 
 
 ## Contact
-Created by [G Basavaraj]
+Created by G Basavaraj
 
 
 <!-- Optional -->
